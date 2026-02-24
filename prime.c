@@ -6,7 +6,6 @@ int main()
 	printf("Enter a number:");
 	scanf("%d",&n);
 	prime(n);
-	return 0;
 }
 void prime(int n)
 {
