@@ -1,0 +1,91 @@
+From 6dde720a47a2e8632ddfae58f4b48c270da400a4 Mon Sep 17 00:00:00 2001
+From: Revati <revatiharapanahalli@gmail.com>
+Date: Mon, 13 Apr 2026 05:15:12 +0000
+Subject: [PATCH 3/3] bp
+
+---
+ a.out | Bin 16136 -> 0 bytes
+ bp.c  |   6 ++++++
+ 2 files changed, 6 insertions(+)
+ delete mode 100755 a.out
+ create mode 100644 bp.c
+
+diff --git a/a.out b/a.out
+deleted file mode 100755
+index 9164582e04950259e3331597c68c50bbf9b1959b..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 16136
+zcmeHOTWl2989uuha2miimtY`;DG3o2d9jT#ki^Y`y=Gl;alxoWq8+cjV|$goxVy87
+zjS6*Q62)>X(U)GNR;3SBs2a7j>I11nyMz`@)Kt)iinK437RgpfV-(uDEn)lpGygvx
+zkJe2ud8+0}v)}o@|8ma!b7uF<&N*L->}?GO0!qp}^(jSCq0(l;tcY&s3Lva@sKxkP
+zr`D<kkjpI2)`x9?)-KnBv$34{c|h{3rb-EX*rt`B^pKGJ<|@?-ZH=Jf^B}+Zq+;2N
+zW86<c(L3#F<cy+OpAH@+0~A5GALZtBjipwnn`UD_w>Q8jek79LS@t{2eu7ino}lED
+zaze)r&Zie^p`#+`_3L9lFSgijN|4&1a_E*B|8LrBXTNsM3ZuOEq)jV9Y40=eqrCjP
+zMK1F}Zf~yZ(8>81<n*d7$wXIU!<J;cCYea*2Wkd(G}bgWgmRfsz10QkmxhDJ)Smr^
+z6~YvV<20(^kS$9*(k*8_*=NQdxp1=i_FGlMZ<-%0dHv|J-{udH4fUIR$c75VlOaMf
+z)gQn?Hg-OqN6qF4uNl8e5zbXsLb0@jau}Ref~R&$*;Cu4_#Jcb-vY1U@Rp}Ql#26x
+z@S4{c@+KVXOYo{cZ|0P)=ge65GkSO5GkQ-fkpzM3*iCHK)KjrU8cg><Oz%mgW68uZ
+zL-l79X|o4xBA4mjxl_+|$I?BDoakCNsy%z#b~o$wq3uqs!Ku}UwmJ2!4N7n8*r&&h
+ztkIjunMSr_Uvn~(HacQmNdxhFQ<*gPL$^&!8qyUG;HsD52w-$kok{@AexQu&m5Ib+
+z8huBYTW-l^s*C0P>I8<#Je6em$6x*mE?H0wK&B$!NAf*zy2|Fy@b``Ioy?bqZN2a!
+zU#AO*LgRtPij*5J-aURNT)aJgZI3AzFKv)!+QrkjmvWAI`ns2Uj&ubVPxq6QaTjm>
+z4zS{?i|3yXaq-d5fS&<B1AYel4EP!FGw^?zf%hxc{yjQ;yF5BN|LrYGMPDqK!Q$2E
+z@XyOHTIXBb_5$eQhLiZLSQl1g-$$Cso5f<W=aePW#BcJ~Gcry1Cf}HmX@WNSBS$W7
+zIDu$A73*4*6|cA<<dGlq$ZI|FL$l<%ciTp;eLgyJGdldosrHUYU7_wubgb!3v|3#8
+zen_diJ)w$qCn4el$C_5bIXX6fDZ$QZa|KTQH!z}8f1r4yV%-qgU1Ws)Bq_(X-6Ys_
+zKRPlMz3``}q8Fy;MFW?j*Y2Ck5#T!<puBj)J}>d7{0udbTIDw%jt)1yK-K8TEpt(H
+zwCN=X6O;Fg#fdnwb7}r@$brwn*J+>pC!d3oDu>~Ri&Ytqj+SlMXvK+4*A;LwO-m@~
+z<#XWF#5e**$0B#5BbT76cdO1rH5$1)a(QA6EG_fs=;7&jbn|j6pgDiy7)-8QbTy}q
+z9KU@za*sk^j!e_FerLsK<o4J9dVG51>WhVZ*>L1uU>KUw$n+DD+b8}oeEeQ8UxlWB
+zf=3keYGNfqzEc6>r%WsWaq0?<Flxsdf6j=bcKqUJz|Vl60Y3wN2K)^88SpdUXTZ;Z
+zp8-DuA9V%-{B|*t#w#l=rls?#E+hN6+7MSAeFlqKBB$X+S;|lzGMzDP1sme&b<Mmd
+z=-n;7+qwE)vDgpPri#U{0c(M0f&IWEz^CsNi{rp?-~^Bgy(6U(ICfA41}Xz<7A-74
+zg=bFUAI4D$-^a+HWuf&d>`_!3a2!Ef?ZhvsY+X|Q>52!RD<4u%t={>`t&du-3(5Z|
+zjv?4tj%15MyoqA~d>AN&+Ij`Y2-?dK8Cg>KQm}dPf?yANWcTGY(AS|yT3q_0mYyiT
+z_!;ms;Ag<kfS&<B1AYel4EP!FGvH_7Kgocs%ae6@vc_&d2U#S+_@M?b*sL<diz-*K
+zEbIN~wI3Bc!dPWBqpbU*=N>Ae|MPwO@#ieP!$py`bK|_YPS)^UXZ^=)Gd0fmAY(P-
+z3Pu5TQ>S?yo~#w@WCMCWqathbX#FacbKJ1-)7&xXcfqonSr;qquVr5B{=tuT$g4%+
+z#iaGPcZTEP&8sC#-sN%d6zl)SdN~gc|B->L`}PK`<?9`0Y-j9b^xA)zEbBS<G&eu4
+zZ9LqSPn&tIZfj_3sJ5mtZ;ACM>Kj6}4V#$$*AXdSW$I4RYh|xpE>o{?!ZbEmHitc3
+zuOL>vPI=CY{D{|heJVt&Y{e(>a=$RG+E59o)v7XVGjcs?m32Tpq-6ZtTBW{-3dNE8
+zPxzND`xVamS>azrrPTS(bzVQP;w)E3J|PiiuvDD$mi<cQ9S@f*w`I;cdWrJ3Wnb;w
+zSHi!CN~!hMi;xgaj9mDv#p7Ef>>^R!2)<ODo!~3gDksn46(;*&l^XImwayVIHV1EV
+zd~biA2d_zEE~NjCs)DPOjBinWlXyA<cH*xy^&0p}jFalHSlW0D{8DHNJPxh@prHC8
+z+gEz*&$In^d3;)5BCvmh`D)ICVTV`a7SDnUeh;4d?~VU1c+F)e)rI&1T`z(Q*Mnag
+z#IJ?tK2nFevu0f=gB9wru7qyJdKHMAneXWdb*q`x?7ErKyJ<Z;EwYbi^xkBqE0)yb
+zW+t1{WBCEqok{g44bzB+YD-(tn)`$v%VuMPx{)@sgQ_PROBs4RpGpnF#U<&mG-sJw
+z|30Eay54$l*S?4z+25jL8GXys`*-bYYX*(|5_%-c+Gxu`rSI8$VE3-Q`hnKgLy-=>
+zW7qDz5qNm_1B7LP|A#E#r|kufEiL@ljd;wADeJ5dcJ{sl$FhMp7&wIGs*|g|833-c
+zcLwP3Tt@GUrQ@_~pzQ#x;)%4L&lzzvnZ}3SmCLcOwV}cOV|Mli2B*30u*XIO$rtTV
+zD7o!m_O1xW-Rdn}45dQ3!IT;60-9MH`=o{)6h^jRh462%5$a9nL;cxIzmYWuT~t>-
+zfxR?|I8(cJx7E;Cv&{Qqxjq$&52n$Cjb_%?JZofgiA;KyphK56k}-1NT7S}1A*-7q
+zR71TPh*ZfL-6~`n0}yHO!8&7Iw2;xq!>uolXd>A$>~Uv%NF7bZQV9gJ-Ejp}2m?Na
+zaqPOs{+BAv%WzBMH^(mCeQ`1`W3^=~b;3t*&|FCT=i2{8wp3*PV@pakqT=@V?gOL$
+z+1*9HFNLGuSGT|Xz6)w%$msR|Ecm}*E+ze!`KF+>FY`@r|6}l{xu*Ebd{l6X+oe8I
+zp2c70g$ZypB@us_-#Q4LyHE^w`2qx*D~i9&4+Ui&EBzNc!4vSOxu?i7{}gQJ#=QNP
+zK8&G4ITe4I4+|F9P}=vN|5w?6H`~elTCmgQPdW4Ye;XX-MB+QYGyHoa&mA1b>Z{ZV
+zzk$Q;ud$z?oWJ<6+G*xhkAFWK2#Wn&{%1Y@L+l_J7Dq;jC-}O@zrYGXnh&^(_zCwj
+zRNUt;^CUret`mFj{qqa<m+P-Iwq!iOqJUgKk>5gv+86(J&DID$X^YOMxBcHi<MuzL
+z*`|WObUf{fxBXk7u~607%O%gNvTxICFS6hr_*S_5Wj=qV1|*8u+0u+G{0C6b*p=rv
+znP<yBT-k3+_a7DUlk50BaCH9SFVC~5w~)0`oz~~fhxiLFfV10Qh1s^&MrlVPh@Z$b
+ze<x1bm-%8P`+M!FEqAHn_SxJ~iT`GYu`A;5Mj1P9(=Z1taK}ClB~5*$Kl1%c&xO)=
+ex4-pr7sN(SaA{X;tLE_ENIz^St33`LQT-Egtg1Nx
+
+diff --git a/bp.c b/bp.c
+new file mode 100644
+index 0000000..209f3ae
+--- /dev/null
++++ b/bp.c
+@@ -0,0 +1,6 @@
++#include<stdio.h>
++int main(){
++	printf("bp related commands \n");
++	return 0;
++}
++
+-- 
+2.43.0
+
